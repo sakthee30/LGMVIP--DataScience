@@ -1,0 +1,7 @@
+1) Simple dataframe to/from excel,csv,json read/write
+2) From JSON, data fetching and saving it in different file format
+3) XML to JSON conversion
+4) JSON to file write
+5) Code optimization
+6) Streamlit UI
+7) Azure services
